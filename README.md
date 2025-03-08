@@ -18,6 +18,7 @@ GET /wallets/{id} – Get a wallet’s details, including its owner, type, and a
 POST /wallets/transfer – Transfer money from one wallet to another.
 
 **Features**
+
 Users can own multiple wallets.
 Each wallet type has unique attributes like minimum balance and interest rates.
 Wallets can send and receive money while maintaining minimum balance rules.
