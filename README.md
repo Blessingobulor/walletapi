@@ -1,6 +1,7 @@
 This project is a Laravel-based API that allows users to manage multiple wallets, each with a unique type, minimum balance, and monthly interest rate. The system enables seamless money transfers between wallets while ensuring balance constraints are met.
 
 **Database Design**
+
 The system consists of the following key entities:
 
 Users: Each user can own multiple wallets.
